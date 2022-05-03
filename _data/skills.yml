@@ -1,12 +1,21 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Front-End hard skills
+  description: Development using Node.js, NgRx, Angular, RxJs, Svelte, jQuery. Styling using SCSS/SASS.
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Back-End hard skills
+  description: Development using Node.js, Nest.js/Express.js/Fastify
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+- skill: Telegram bot development
+  description: Using Python: Telethon, Pyrogram. Using Node.js: Telegraf.js, grammy.js
+  
+- skill: SQL databases
+  description: MySQL, MS SQL, MS SQL Management Studio, PostgreSQL, SQLite
+  
+- skill: NoSQL databases
+  description: MongoDB
+
+- skill: Linux OSes
+  description: Alpine, CentOS, RHEL, Arch Linux, Ubuntu
+
+- skill: Personal skills
+  description: Teamwork; communication; problem-solving; time management; computer skills; interpersonal skills; want to grow, learn, self-develop
