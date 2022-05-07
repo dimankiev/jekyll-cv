@@ -1,12 +1,17 @@
-# Jobs
-# Full-Stack Developer
 - company: Infopulse
   position: Junior Full-Stack Developer
-  duration: Aug, 2021 &mdash; Present
-  summary: Maintaining existing analytics project, debugging and implementing new features. Stack: <ul class="resume-item-list"><li>.NET, ASP.NET</li><li>MS SQL</li><li>Node.js, NgRx, Angular, RxJs</li></ul>
-
-- # Full-Stack Developer
+  duration: 'Aug, 2021 &mdash; Present'
+  summary: >-
+    Maintaining existing analytics project, debugging and implementing new
+    features. Stack: <ul class="resume-item-list"><li>.NET, ASP.NET</li><li>MS
+    SQL</li><li>Node.js, NgRx, Angular, RxJs</li></ul>
+- null
 - company: KA Health and Cosmetics Acupuncture PC
   position: Full-Stack Developer (Freelance)
-  duration: May, 2020 &mdash; Aug 2021
-  summary: Creating website from scratch, maintaining and improving it; Deploying and maintaining open source business-critical projects; Developing some tools and scripts for deployment; SEO; Maintaining Google Ads, marketing. Stack: <ul class="resume-item-list"><li>Node.js</li><li>Nest.js</li><li>React/JSX</li><li>MongoDB</li></ul>
+  duration: 'May, 2020 &mdash; Aug 2021'
+  summary: >-
+    Creating website from scratch, maintaining and improving it; Deploying and
+    maintaining open source business-critical projects; Developing some tools
+    and scripts for deployment; SEO; Maintaining Google Ads, marketing. Stack:
+    <ul
+    class="resume-item-list"><li>Node.js</li><li>Nest.js</li><li>React/JSX</li><li>MongoDB</li></ul>
